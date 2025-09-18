@@ -1,0 +1,4 @@
+C:\Users\rolan\source\repos\DuendeSamples\BFF\v3\BlazorAutoRendering\BlazorAutoRendering.Client\wwwroot\appsettings.Development.json
+C:\Users\rolan\source\repos\DuendeSamples\BFF\v3\BlazorAutoRendering\BlazorAutoRendering.Client\wwwroot\appsettings.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json

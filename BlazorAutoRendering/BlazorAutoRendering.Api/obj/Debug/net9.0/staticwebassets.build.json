@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "994qTPh2dYRd2q/ZcBnvrpJ+PUmv4BZvewIFuILwiPA=",
+  "Source": "BlazorAutoRendering.Api",
+  "BasePath": "_content/BlazorAutoRendering.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

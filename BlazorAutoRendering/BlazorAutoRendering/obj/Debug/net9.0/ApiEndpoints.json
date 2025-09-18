@@ -1,0 +1,20 @@
+[
+  {
+    "ContainingType": "BlazorAutoRendering.WeatherEndpointExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapWeatherEndpoints\u003Eb__0_0",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WeatherForecast[]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

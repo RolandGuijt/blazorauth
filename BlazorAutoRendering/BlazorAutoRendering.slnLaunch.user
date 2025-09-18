@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BlazorAutoRendering\\BlazorAutoRendering.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorAutoRendering.Api\\BlazorAutoRendering.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

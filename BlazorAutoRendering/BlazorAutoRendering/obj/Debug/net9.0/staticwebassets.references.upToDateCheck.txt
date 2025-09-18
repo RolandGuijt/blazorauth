@@ -1,0 +1,1 @@
+C:\Users\rolan\source\repos\DuendeSamples\BFF\v3\BlazorAutoRendering\BlazorAutoRendering.Client\obj\Debug\net9.0\staticwebassets.build.json
